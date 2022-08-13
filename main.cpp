@@ -74,8 +74,8 @@ sf_t sf = SF7;
 uint32_t  freq = 868100000; // in Mhz! (868.1)
 
 // Set location
-float lat=0.0;
-float lon=0.0;
+float lat=10.3769271;
+float lon=123.9768219;
 int   alt=0;
 
 /* Informal status fields */
